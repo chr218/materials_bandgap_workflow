@@ -1,0 +1,20 @@
+/home/chr218/materials_bandgap_workflow/metalocene_example/test_chromocene/CONTCAR_9
+68 F= -.67310329E+03 E0= -.67303941E+03 d E =-.488375E-04
+/home/chr218/materials_bandgap_workflow/metalocene_example/test_chromocene/CONTCAR_1
+224 F= -.67324985E+03 E0= -.67318784E+03 d E =-.652471E-04
+/home/chr218/materials_bandgap_workflow/metalocene_example/test_chromocene/CONTCAR_2
+512 F= -.66717980E+03 E0= -.66716242E+03 d E =-.202881E-04
+/home/chr218/materials_bandgap_workflow/metalocene_example/test_chromocene/CONTCAR_5
+11 F= -.67306992E+03 E0= -.67300709E+03 d E =-.178795E-03
+/home/chr218/materials_bandgap_workflow/metalocene_example/test_chromocene/CONTCAR_4
+256 F= -.67324496E+03 E0= -.67318025E+03 d E =0.193548E-04
+/home/chr218/materials_bandgap_workflow/metalocene_example/test_chromocene/CONTCAR_0
+32 F= -.67328907E+03 E0= -.67322398E+03 d E =-.516997E-04
+/home/chr218/materials_bandgap_workflow/metalocene_example/test_chromocene/CONTCAR_7
+246 F= -.67326059E+03 E0= -.67319699E+03 d E =-.693413E-04
+/home/chr218/materials_bandgap_workflow/metalocene_example/test_chromocene/CONTCAR_6
+212 F= -.67327344E+03 E0= -.67321006E+03 d E =-.345146E-03
+/home/chr218/materials_bandgap_workflow/metalocene_example/test_chromocene/CONTCAR_8
+95 F= -.67330585E+03 E0= -.67324542E+03 d E =-.424632E-05
+/home/chr218/materials_bandgap_workflow/metalocene_example/test_chromocene/CONTCAR_3
+336 F= -.67332382E+03 E0= -.67326329E+03 d E =0.797710E-04

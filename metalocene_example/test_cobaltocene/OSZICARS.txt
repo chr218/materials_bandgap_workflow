@@ -1,0 +1,4 @@
+/home/chr218/materials_bandgap_workflow/metalocene_example/test_cobaltocene/CONTCAR_9
+211 F= -.67161866E+03 E0= -.67155738E+03 d E =-.825809E-04
+/home/chr218/materials_bandgap_workflow/metalocene_example/test_cobaltocene/CONTCAR_4
+42 F= -.67142706E+03 E0= -.67136577E+03 d E =-.183682E-03
