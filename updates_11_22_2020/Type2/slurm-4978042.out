@@ -1,0 +1,6 @@
+System Architecture: avx512
+Processor Family: skylake
+groups: cannot find name for group ID 1003
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd: error: *** STEP 4978042.0 ON hawk-a119 CANCELLED AT 2020-12-04T15:45:27 ***
+slurmstepd: error: *** JOB 4978042 ON hawk-a119 CANCELLED AT 2020-12-04T15:45:27 ***

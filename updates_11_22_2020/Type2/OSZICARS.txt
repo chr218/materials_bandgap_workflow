@@ -1,0 +1,12 @@
+/home/chr218/materials_bandgap_workflow/updates_11_22_2020/Type2/CONTCAR_9
+339 F= -.12538300E+04 E0= -.12537654E+04 d E =-.150798E-03
+/home/chr218/materials_bandgap_workflow/updates_11_22_2020/Type2/CONTCAR_1
+40 F= -.12537303E+04 E0= -.12536663E+04 d E =-.113112E-03
+/home/chr218/materials_bandgap_workflow/updates_11_22_2020/Type2/CONTCAR_4
+289 F= -.12537748E+04 E0= -.12537098E+04 d E =-.962563E-04
+/home/chr218/materials_bandgap_workflow/updates_11_22_2020/Type2/CONTCAR_0
+199 F= -.12537644E+04 E0= -.12537006E+04 d E =-.190526E-03
+/home/chr218/materials_bandgap_workflow/updates_11_22_2020/Type2/CONTCAR_7
+266 F= -.12538350E+04 E0= -.12537718E+04 d E =-.173042E-04
+/home/chr218/materials_bandgap_workflow/updates_11_22_2020/Type2/CONTCAR_6
+230 F= -.12537071E+04 E0= -.12536411E+04 d E =0.102462E-04
